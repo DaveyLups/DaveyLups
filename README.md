@@ -2,8 +2,8 @@
 
 [![MasterHead](https://media.licdn.com/dms/image/C4E16AQFDOArtsmWwTw/profile-displaybackgroundimage-shrink_200_800/0/1655424299511?e=2147483647&v=beta&t=96KUki0iqWjQ_qP1Z8tPTfWxzxmceVLweimWOXXceq0)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm David Malope</h1>
-<h3 align="center">Junior Security Researcher from South Africa</h3>
+<h1 align="center">Hi 👋, I'm David M.</h1>
+<h3 align="center">Security Researcher</h3>
 <img align="right" alt=“Security” width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf7dgyhNoMfhLC9BjG_Xk5AE-tAwcD5ZeI_xKji8dnUi-_hqNS4ReHBkwNawKMG8ZGEfc&usqp=CAU" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daveylupes&label=Profile%20views&color=0e75b6&style=flat" alt="daveylupes" /> </p>
@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Solidty, Python, and Rust**
 
-- 👨‍💻 All of my projects are available at [daveylupes.com](daveylupes.com)
+<!-- - 👨‍💻 All of my projects are available at [daveylupes.com](daveylupes.com)
 
-- 📝 I regularly write articles on [daveylupes/articles.com](daveylupes/articles.com)
+- 📝 I regularly write articles on [daveylupes/articles.com](daveylupes/articles.com)-->
 
 - 💬 Ask me about **Hacking, and Software Development**
 
